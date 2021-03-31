@@ -1,5 +1,24 @@
-# Data Structures implemented in C
+# Programs in Assembly
 
-This project is part of the Computer Engineering and Informatics Department (CEID) of University of Patras curriculum.
+## About The Project
 
-Code::Blocks IDE was used.
+This project was part of the Computer Engineering and Informatics Department (CEID) of University of Patras curriculum.
+
+Data structures implementation in C.
+## Exercises
+1. Part 1
+	-  Sorting Algorithms
+		- Bubble Sort
+		- Insertion Sort
+		- Merge Sort
+		- Quick Sort
+	- Searching Algorithms
+		- Linear Search
+		- Binary Search
+		- Interpolation Search
+2. Part 2
+	- Binary Search Tree
+	- Hashing
+
+## Tools
+- Code::Blocks IDE
