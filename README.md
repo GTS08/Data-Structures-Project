@@ -1,4 +1,4 @@
-# Programs in Assembly
+# Data Structures Project
 
 ## About The Project
 
@@ -6,7 +6,7 @@ This project was part of the Computer Engineering and Informatics Department (CE
 
 Data structures implementation in C.
 ## Exercises
-1. Part 1
+- Part 1
 	-  Sorting Algorithms
 		- Bubble Sort
 		- Insertion Sort
@@ -16,7 +16,7 @@ Data structures implementation in C.
 		- Linear Search
 		- Binary Search
 		- Interpolation Search
-2. Part 2
+- Part 2
 	- Binary Search Tree
 	- Hashing
 
