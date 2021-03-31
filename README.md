@@ -4,7 +4,7 @@
 
 This project was part of the Computer Engineering and Informatics Department (CEID) of University of Patras curriculum.
 
-Data structures implementation in C.
+Data structures implemented in C.
 ## Exercises
 - Part 1
 	-  Sorting Algorithms
